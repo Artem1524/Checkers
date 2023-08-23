@@ -19,3 +19,13 @@
 </ul>
 
 В прототип добавлен "наблюдатель", который может записывать все ходы игроков, а затем воспроизводить их.
+
+## Скриншоты
+
+<img src="https://github.com/Artem1524/Checkers/blob/master/1.png"/>
+
+<img src="https://github.com/Artem1524/Checkers/blob/master/2.png"/>
+
+<img src="https://github.com/Artem1524/Checkers/blob/master/3.png"/>
+
+<img src="https://github.com/Artem1524/Checkers/blob/master/4.png"/>
