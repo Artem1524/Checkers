@@ -22,6 +22,8 @@
 
 ## Скриншоты
 
+<img src="https://github.com/Artem1524/Checkers/blob/master/Checkers.gif"/>
+
 <img src="https://github.com/Artem1524/Checkers/blob/master/1.png"/>
 
 <img src="https://github.com/Artem1524/Checkers/blob/master/2.png"/>
